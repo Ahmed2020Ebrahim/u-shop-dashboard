@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "u-shop-1f79a",
+          "appId": "1:54684483623:android:7e588db633d3e025e1ce02",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "u-shop-1f79a",
+          "configurations": {
+            "android": "1:54684483623:android:7e588db633d3e025e1ce02",
+            "ios": "1:54684483623:ios:c18c1c4f710f6bd4e1ce02",
+            "web": "1:54684483623:web:2f345d6022a329f3e1ce02"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}

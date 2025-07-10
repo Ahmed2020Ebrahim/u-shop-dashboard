@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "54684483623",
+    "project_id": "u-shop-1f79a",
+    "storage_bucket": "u-shop-1f79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54684483623:android:45362dd29ef95b63e1ce02",
+        "android_client_info": {
+          "package_name": "com.example.u_shop_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54684483623-5a02ofl2nqk40npo04g921b5tc3ib23u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.u_shop_3",
+            "certificate_hash": "736d5316eda83eaba41f9da4d800f5777707808a"
+          }
+        },
+        {
+          "client_id": "54684483623-q1r9vpcmq97qvttrv351fd18ej0smn77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSL3tkyPzhqDHAudfD5XkfSLT3IiyHnqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54684483623-q1r9vpcmq97qvttrv351fd18ej0smn77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54684483623-39ia72dm3hc6bhsl6s6a98997c5gt8ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uShop3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54684483623:android:a302f7822437758ce1ce02",
+        "android_client_info": {
+          "package_name": "com.example.ushop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54684483623-dmuq5gr5sqbjf7pd112cptt4euumi4fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ushop",
+            "certificate_hash": "736d5316eda83eaba41f9da4d800f5777707808a"
+          }
+        },
+        {
+          "client_id": "54684483623-q1r9vpcmq97qvttrv351fd18ej0smn77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSL3tkyPzhqDHAudfD5XkfSLT3IiyHnqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54684483623-q1r9vpcmq97qvttrv351fd18ej0smn77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54684483623-39ia72dm3hc6bhsl6s6a98997c5gt8ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uShop3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54684483623:android:7e588db633d3e025e1ce02",
+        "android_client_info": {
+          "package_name": "com.example.ushop_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54684483623-q1r9vpcmq97qvttrv351fd18ej0smn77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSL3tkyPzhqDHAudfD5XkfSLT3IiyHnqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54684483623-q1r9vpcmq97qvttrv351fd18ej0smn77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54684483623-39ia72dm3hc6bhsl6s6a98997c5gt8ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uShop3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
